@@ -1,4 +1,4 @@
 WordCount
 =========
 
-** TODO: Add description **
+Learning elixir
