@@ -1,0 +1,2 @@
+defmodule WordCount do
+end
